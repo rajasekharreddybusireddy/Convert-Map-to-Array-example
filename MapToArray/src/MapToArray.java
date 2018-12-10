@@ -5,7 +5,6 @@ import java.util.Map;
 public class MapToArray {
 
 	public static void main(String[] args) {
-
 		HashMap<Integer, String> hashMap = new HashMap<>();
 		hashMap.put(101, "abc");
 		hashMap.put(102, "def");
